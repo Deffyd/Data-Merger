@@ -2,8 +2,8 @@
 ## Instalación
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/report-generator.git
-    cd report-generator
+    git clone https://github.com/Deffyd/Data-Merger.git
+    cd Data-Merger
     ```
 
 2. Crea un entorno virtual y activa el entorno:
